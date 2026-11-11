@@ -1,0 +1,12 @@
+# Editors
+/.idea/
+/.vscode/
+
+# Deno / Node
+/node_modules
+/tsconfig.json
+.env
+
+# macOS
+.DS_Store
+.DS_Store?

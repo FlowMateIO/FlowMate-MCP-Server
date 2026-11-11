@@ -1,0 +1,13 @@
+{
+  "lock": false,
+  "compilerOptions": {
+    "skipLibCheck": true,
+    "lib": [
+      "deno.ns",
+      "dom"
+    ]
+  },
+  "tasks": {
+    "start": "deno run --allow-net --allow-env --allow-read --allow-import main.ts"
+  }
+}

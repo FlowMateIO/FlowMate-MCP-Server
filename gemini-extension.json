@@ -1,0 +1,10 @@
+{
+  "name": "flowmate",
+  "version": "1.0.0",
+  "description": "Build, run and monitor FlowMate integration flows across your business apps from Gemini CLI.",
+  "mcpServers": {
+    "flowmate": {
+      "httpUrl": "https://api.flowmate.ai/mcp"
+    }
+  }
+}
