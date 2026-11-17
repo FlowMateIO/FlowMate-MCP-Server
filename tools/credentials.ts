@@ -376,7 +376,7 @@ Returns:
       try {
         const response = await apiGet<{ data: Record<string, unknown> }>(
           authRef,
-          `/secrets/${params.secretId}`,
+          `/secrets/${params.secretId}/meta`,
           {}
         );
 
